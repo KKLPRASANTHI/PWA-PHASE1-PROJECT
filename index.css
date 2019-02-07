@@ -3,7 +3,7 @@ body{
 	
 }
 #maindiv{
-	background-color:rgb(144,39,230);
+	background-color:rgb(172, 230, 228);
 	display:flex;
 	justify-content:space-around; 
 	margin:6%;
