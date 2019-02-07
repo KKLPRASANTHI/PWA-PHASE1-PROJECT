@@ -1,0 +1,96 @@
+{
+	"profile": {
+		"img": "profilepic.png",
+		"name": "K.K.L.Prasanthi",
+		"roll": "17A31B0514",
+		"Institute": "Pragti Engineering College",
+		"place": "Surampalem"
+	},
+	"career": {
+        "hdng":"RESUME",		
+		"chdng":"Career Objective",
+		"info": "To work in an envirornment where I can develop my skills and knowledge"
+	},
+	"education": [
+		{
+			"s": "1",
+			"degree": "B.Tech",
+			"institute": "Aadarasha Vidhyalaya",
+			"yop": "2015"
+		},
+		{
+			"s": "2",
+			"degree": "Intermediate",
+			"institute": "Narayana junior college",
+			"yop": "2017"
+		},
+		{
+			"s": "3",
+			"degree": "B.Tech",
+			"institute": "Pragati Engineering College",
+			"yop": "2021"
+		}
+	],
+	"languages": [{
+
+			"lang": "English"
+		},
+		{
+			"lang": "Telugu"
+		},
+		{
+			"lang": "Hindi"
+		}
+	],
+	"skills":[
+		{
+		"sk":"C Language"
+		},
+		{
+		"sk":"C++"
+				},
+				{
+					"sk":"Python"
+				},
+				{
+				"sk":"JAVA"
+				},
+				{
+					"sk":"HTML"
+				},
+				{
+					"sk":"CSS"
+				}			
+
+
+	],
+	"achmnts":[
+
+{
+	"acm":"Internet Of Things"
+},
+
+{
+	"acm":"Android App development using MIT App Inventor"
+},
+{
+	"acm":"Proggressive Web App Development"
+},
+
+{
+	"acm":"Done a project on SMART HOME"
+}
+
+
+	],
+	"prfl":[
+		{
+			"pdt":"Highly energitic,growth oriented,an indidual seeking to establish a career in the Information Technology industry."
+		},
+		{
+			"pdt":"Ability to take on challenges,work under pressure,extreme dedication towards work"
+		}
+
+	]
+
+}

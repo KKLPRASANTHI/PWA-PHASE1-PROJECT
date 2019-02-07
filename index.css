@@ -1,0 +1,90 @@
+body{
+	background-color:skyblue; 
+	
+}
+#maindiv{
+	background-color:rgb(144,39,230);
+	display:flex;
+	justify-content:space-around; 
+	margin:6%;
+	border-radius: 2%;
+	box-shadow: 3PX 3PX 3PX 3PX;
+        }
+.subdiv{
+background-color:lightgreen;
+text-align: center;
+margin:1%;
+border-radius: 4%;
+box-shadow: 3px 3px 3px 3px;
+width:31.33%;
+}
+img{
+	margin:3%;
+	border-radius: 4%;
+	width:50%;
+	height: 25%;
+}
+
+/*MOBILE VIEW*/
+@media screen and (max-width:596px ){
+	body{
+		background-color: rgb(60, 179, 113);
+	}
+	#maindiv{
+	background-color:rgb(56, 158, 132);
+	display:inline-block;
+	justify-content:space-around; 
+	margin:3%;
+	border-radius: 3%;
+	box-shadow: 2PX 2PX 2PX 2PX;
+}
+.subdiv{
+background-color:rgb(98,87,98);
+text-align: center;
+justify-content: center;
+margin-top: 3%;
+margin-bottom: 3%;
+margin-left:5%;
+margin-right: 5%;
+border-radius: 4%;
+box-shadow: 2px 2px 2px 2px;
+width:90%;
+}
+img{
+	margin:1.5%;
+	border-radius: 4%;
+	width:30%;
+	height: 10%;
+}
+}
+/*TAB VIEW*/
+@media screen and (min-width:597px) and (max-width:800px ){
+	body{
+	background-color:rgb(59, 82, 107); 
+	
+}
+#maindiv{
+	background-color:rgb(60, 160, 183);
+	display:inline-block;
+	justify-content:space-around; 
+	margin:10%;
+	border-radius: 3%;
+	align-items: center;
+	box-shadow: 2PX 2PX 2PX 2PX;
+}
+.subdiv{
+background-color:rgb(238, 130, 238);
+text-align: center;
+justify-content: center;
+margin:3%;
+border-radius: 4%;
+box-shadow: 4px 4px 4px 4px;
+width:94%;
+}
+img{
+	margin:3%;
+	border-radius: 4%;
+	width:30%;
+	height: 10%;
+}
+}
