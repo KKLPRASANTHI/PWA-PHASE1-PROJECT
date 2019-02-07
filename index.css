@@ -28,10 +28,10 @@ img{
 /*MOBILE VIEW*/
 @media screen and (max-width:596px ){
 	body{
-		background-color: rgb(60, 179, 113);
+		background-color: rgb(237, 175, 129);
 	}
 	#maindiv{
-	background-color:rgb(56, 158, 132);
+	background-color:rgb(209, 178, 204);
 	display:inline-block;
 	justify-content:space-around; 
 	margin:3%;
@@ -80,8 +80,7 @@ margin:3%;
 border-radius: 4%;
 box-shadow: 4px 4px 4px 4px;
 width:94%;
-margin:3%;
-}
+
 img{
 	margin:3%;
 	border-radius: 4%;
