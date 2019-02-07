@@ -30,7 +30,7 @@ img{
 /*MOBILE VIEW*/
 @media screen and (max-width:596px ){
 	body{
-		background-color: rgb(237, 175, 129);
+		background-color: rgb(254, 249, 231);
 	}
 	#maindiv{
 	background-color:rgb(209, 178, 204);
